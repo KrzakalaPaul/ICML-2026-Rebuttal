@@ -8,3 +8,9 @@
 
 ## Figure 3
 <img src="alpha_vs_mean_r1_by_samples.png" width="800px" />
+
+
+## Figure 3
+<img src="alpha_vs_mean_r1_by_noise_unsupervised.png" width="800px" />
+
+	
