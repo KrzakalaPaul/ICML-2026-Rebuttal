@@ -14,3 +14,11 @@
 
 ## Figure 5
 <img src="sinkhorn_convergence.png" width="800px" />
+
+## Figure 6
+<img src="epsilon_1k.png" width="800px" />
+
+## Figure 7
+<img src="epsilon_10k.png" width="800px" />
+
+
