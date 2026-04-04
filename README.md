@@ -23,5 +23,5 @@
 
 
 ## Figure 8
-<img src="epsilon_ratio_lines_anchor_0p005.png" width="800px" />
+<img src="epsilon_ratio.png" width="800px" />
 
