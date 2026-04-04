@@ -22,3 +22,6 @@
 <img src="epsilon_heatmap_mean_R@1_10k pairs.png" width="800px" />
 
 
+## Figure 8
+<img src="epsilon_ratio_lines_anchor_0p005.png" width="800px" />
+
